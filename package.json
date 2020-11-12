@@ -11,5 +11,9 @@
   "dependencies": {
     "express": "^4.17.1",
     "sharp": "^0.26.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/brentbrownfield/sharp-getting-started.git"
   }
 }
