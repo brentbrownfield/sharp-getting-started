@@ -5,4 +5,5 @@ https://malcoded.com/posts/nodejs-image-resize-express-sharp/
 
 Run/Install as typical nodejs application:
 > npm install
+
 > npm run
